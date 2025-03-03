@@ -1,2 +1,2 @@
 print ("Jambo Tena")
-print("Hello Kasongo")
+print("Hello Kasongo weeee")
